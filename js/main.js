@@ -15,12 +15,12 @@ class Producto {
 
 const productoA = new Producto("Rig 6x AMD 6600xt 6gb", 10, 700000, 0.95, 1, "Rig","imagenes/RigCard.png",1)
 const productoB = new Producto("Gigabyte Rtx 3070 8gb LHR", 60, 130000, 0.95, 2, "Hardware", "imagenes/Gpu.png",1)
-const productoC = new Producto("Mother Asrock h510 BTC", 30, 40000, 0.95, 3, "Hardware", "https://i.ibb.co/ZWm8gK3/Mother-Card.png",1)
+const productoC = new Producto("Mother Asrock h510 BTC", 30, 40000, 0.95, 3, "Hardware", "imagenes/MotherCard.png",1)
 const productoD = new Producto("Riser v009s Goldtech Usb oro", 100, 2000, 0.95, 4, "Hardware", "imagenes/Riser.png",1)
-const productoE = new Producto("Safepal S1 Wallet Cripto", 10, 20000, 0.95, 5, "Hardware", "imagenes/WalletCard.png",1)
+const productoE = new Producto("Safepal S1 Wallet Cripto", 10, 20000, 0.95, 5, "Hardware", "imagenes/walletCard.png",1)
 const productoF = new Producto("Intel Celeron G5905 S1151", 20, 8000, 0.95, 6, "Hardware", "imagenes/ProcesadorCard.png",1)
-const productoG = new Producto("G. Skill Trident z DDR4 3200", 10, 16000, 0.95, 7, "Hardware", "imagenes/Ram.png",1)
-const productoH = new Producto("Seasonic 850w Modular", 5, 40000, 0.95, 8, "Hardware", "imagenes/Fuente 2.png",1)
+const productoG = new Producto("G. Skill Trident z DDR4 3200", 10, 16000, 0.95, 7, "Hardware", "imagenes/ram.png",1)
+const productoH = new Producto("Seasonic 850w Modular", 5, 40000, 0.95, 8, "Hardware", "imagenes/fuente2.png",1)
 
 
 
